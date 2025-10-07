@@ -51,6 +51,7 @@
 ## PAST EXPERIENCE 💼
 - 🌟Participant of Blockchain Tech Talk 2024.
 - 🌟Participant of CODE'25 UTM.
+- 🌟Participant of Embedded LLM Workshop.
 - 🌟Participant of Prosolve National 2025 UiTM.
 - 🌟Participant of KitaHack'25.
 - 🌟Participant of Ideathon 2025 UTM.
