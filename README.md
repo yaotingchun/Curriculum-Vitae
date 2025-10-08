@@ -1,4 +1,5 @@
-# **Hi there! My name is Chun Yao Ting. 👋**
+<p align="center"> <img width="200" height="250" alt="Chun Yao Ting Passport Size Photo" src="https://github.com/user-attachments/assets/f7112316-b2a2-4233-9065-4c155b2d2cbf" /> <p></p>
+<h1 align="center"> Hi there! My name is Chun Yao Ting. 👋 </h1>
 
 **ABOUT ME**
 - 🏫 2nd Year Student of University of Technology Malaysia (UTM). 
